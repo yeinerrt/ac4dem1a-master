@@ -1,2 +1,2 @@
-# ac4dem1a
-Worshops de distintas tecnologias
+# creacion de la cuenta en la nube publica
+1. Entramos al navegador 
